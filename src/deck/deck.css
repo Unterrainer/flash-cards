@@ -1,0 +1,18 @@
+.deck-container {
+	background-color: #fff;
+	padding: 15px;
+	border-radius: 5px;
+	box-shadow: 2px 1px 0px #ccc;
+	border: 1px solid #ccc;
+}
+
+.deck-container h3 {
+	width: 100%;
+	text-align: center;
+	margin-bottom: 50px;
+}
+
+.deck-container .deck-noc, .deck-hint {
+	text-align: center;
+	margin-bottom: 50px;
+}

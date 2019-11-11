@@ -1,0 +1,18 @@
+.card-container {
+	background-color: #fff;
+	padding: 15px;
+	border-radius: 5px;
+	box-shadow: 2px 1px 0px #ccc;
+	border: 1px solid #ccc;
+	text-align: center;
+}
+
+.card-container .card-text {
+	font-size: 20px;
+	font-weight: bold;
+	margin-bottom: 15px;
+}
+
+.card-container .card-hint {
+	font-size: 14px;
+}
